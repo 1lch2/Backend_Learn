@@ -93,3 +93,6 @@ Thumbs.db
 
 # VSCode
 /.vscode
+
+# Golang pratice code
+/src/golang
